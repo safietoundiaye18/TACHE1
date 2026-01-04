@@ -880,12 +880,14 @@ footer{
 }
 .container7{
     flex-direction: column;
+    padding-right: 20px;
 }
 footer{
     margin-top: 30px;
+    padding-right: 20px;
 }
 .pied{
-    /* padding-left: 20px; */
+    padding-right: 40px;
 }
 
 #cap, .tem{
@@ -1120,7 +1122,7 @@ footer{
     margin-top: 30px;
 }
 .pied{
-    /* margin-left: 20px; */
+    padding-right: 40px;
 }
 
 #cap, .tem{
