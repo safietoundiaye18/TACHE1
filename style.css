@@ -16,23 +16,26 @@ html, body {
 .li7{
     border: 1px solid rgb(37, 103, 90);
     border-radius: 25px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 12px;
+    padding-bottom: 12px;
     margin-top: -15px;
-   padding-left: 15px;
-    padding-right: 15px;
-    box-shadow: 0 0 5px  rgb(15, 109, 90) ;
+   padding-left: 10px;
+    padding-right: 10px;
+    
 
+}
+.kali{
+    padding-right: 10px;
 }
 
 .projet{
     border: 1px solid rgb(50, 182, 155);
     border-radius: 25px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 12px;
+    padding-bottom: 12px;
     margin-top: -15px;
-    padding-left: 15px;
-    padding-right: 20px;
+    padding-left: 10px;
+    padding-right: 15px;
     color: white;
     background-color:rgb(16, 141, 137);
     color: white;
@@ -129,7 +132,7 @@ html, body {
     background-color: white;
 }
 header{
-    height: 20vh;
+    height: 10vh;
     position: fixed;
     width: 100%;
     margin: 0;
@@ -139,7 +142,7 @@ ul{
     list-style-type: none;
     display: flex;
     flex-direction: row;
-    gap: 20px;
+    gap: 10px;
 }
 
  .hero{
@@ -156,18 +159,13 @@ ul{
    background: linear-gradient(to left, rgb(22, 132, 128), rgb(50, 182, 155) );
 }
 
-.header{
-    height: 20vh;
-    position: fixed;
-    width: 100%;
-    margin: 0;
-}
+
 ul{
     font-size: medium;
     list-style-type: none;
     display: flex;
     flex-direction: row;
-    gap: 20px;
+    gap: 10px;
 }
 a{
     text-decoration: none;
@@ -668,12 +666,6 @@ footer{
         margin-left: 0;
         
     }
-    /* #sophie{
-        text-align: center;
-    }
-    #d{
-        text-align: center;
-    } */
     
     .menu-icon{
         display: block;
@@ -731,6 +723,7 @@ footer{
     .header{
     position: fixed;
     width: 100%;
+    
     
 }
 .hero{
@@ -903,11 +896,6 @@ footer{
         margin: 0;
         padding: 0;
         
-    }#sophie{
-        /* text-align: center; */
-    }
-    #d{
-        /* text-align: center; */
     }
     #IC{
         position: relative;
@@ -969,6 +957,7 @@ footer{
     .header{
     position: fixed;
     width: 100%;
+    
     
 }
 .hero{
